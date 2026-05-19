@@ -1,4 +1,3 @@
-# Single-port-RAM
 # Design and Verification of Single-Port RAM using Verilog/SystemVerilog
 
 ## Project Overview
